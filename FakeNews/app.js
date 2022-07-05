@@ -3,7 +3,7 @@ let adj = [ 'logical', 'needless', 'hellish', 'fearful', 'faithful', 'evanescent
     'tame', 'harsh', 'lyrical', 'chunky', 'prickly', 'deafening', 'cultured', 'vulgar',
     'sweltering', 'imminent', 'wasteful', 'humdrum' ];
 
-let verb = [ 'concludes', 'tempts', 'covers', 'rewards', 'stretchs', 'exerts', 'exhibits',
+let verb = [ 'concludes', 'tempts', 'covers', 'rewards', 'stretchs', 'greets', 'exhibits',
     'participates', 'advertises', 'shouts', 'squeezes', 'repeats', 'shakes', 'drowns', 
     'reinforces', 'constructs', 'separates', 'accompanies', 'dedicates', 'favours',
     'urges', 'dictates', 'deserves', 'qualifies', 'solves' ];
